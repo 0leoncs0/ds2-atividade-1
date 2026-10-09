@@ -3,5 +3,5 @@ function calcularMult(numeroA, numeroB) {
         return numeroA * numeroB;
 }
 
-const resultadoTotal = calcularMult(15, 2);
+const resultadoTotal = calcularMult(9, 61);
 console.log("O valor total é:", resultadoTotal);
