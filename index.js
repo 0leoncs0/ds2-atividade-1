@@ -1,7 +1,7 @@
-function calcularMultiplicacao(numeroA, numeroB) {
+function calcularMult(numeroA, numeroB) {
     if (numeroA > 0 && numeroB > 0)
         return numeroA * numeroB;
 }
 
-const resultadoTotal = calcularMultiplicacao(15, 2);
+const resultadoTotal = calcularMult(15, 2);
 console.log("O valor total é:", resultadoTotal);
